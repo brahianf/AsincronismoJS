@@ -1,0 +1,24 @@
+{
+  "name": "asinc",
+  "version": "1.0.0",
+  "description": "asincronismo javaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brahianf/AsincronismoJS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Brahianf Hurtado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brahianf/AsincronismoJS/issues"
+  },
+  "homepage": "https://github.com/brahianf/AsincronismoJS#readme"
+}
